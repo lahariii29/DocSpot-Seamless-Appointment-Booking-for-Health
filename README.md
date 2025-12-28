@@ -97,5 +97,5 @@ cd client
 npm install
 npm start
  ## ▶️ How to Run the Application
-Frontend URL:  http://localhost:3000
-Backend API URL: http://localhost:5000
+Frontend URL: '''bash http://localhost:3000
+Backend API URL: '''bash http://localhost:5000
