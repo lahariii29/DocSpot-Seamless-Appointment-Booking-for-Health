@@ -1,4 +1,4 @@
-# 🏥 DocSpot – Seamless Appointment Booking for Health
+#  DocSpot – Seamless Appointment Booking for Health
 
 DocSpot is a MERN Stack–based healthcare appointment booking system that simplifies the process of booking doctor appointments online. It provides a smooth experience for patients to schedule appointments and for administrators to manage doctors, time slots, and bookings efficiently.
 
@@ -97,5 +97,5 @@ cd client
 npm install
 npm start
  ## ▶️ How to Run the Application
-Frontend URL: '''bash http://localhost:3000
-Backend API URL: '''bash http://localhost:5000
+Frontend URL:  http://localhost:3000
+Backend API URL:  http://localhost:5000
